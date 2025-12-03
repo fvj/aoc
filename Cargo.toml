@@ -1,0 +1,4 @@
+[workspace]
+author = "Julius von Froreich <hello@froreich.dev>"
+resolver = "3"
+members = ["day1", "day2"]
